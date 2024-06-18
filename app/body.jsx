@@ -30,7 +30,7 @@ export default function Body() {
         <form action={handleSubmit} className="max-w-4xl mx-auto space-y-6">
           <div className="space-y-3">
             <p className="text-slate-700 text-xl font-semibold">
-              Column Number
+              ID Number 
             </p>
             <input
               onChange={handleChange}

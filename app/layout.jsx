@@ -3,7 +3,7 @@ import { Poppins } from "next/font/google";import "./globals.css";
 const poppins = Poppins({weight:'200',subsets:['latin']})
 export const metadata = {
   title: "Credit Scoring",
-  description: "Form Credit Scoring Application",
+  description: "Form Credit Scoring Apps With KNIME Hub",
 };
 
 export default function RootLayout({ children }) {
