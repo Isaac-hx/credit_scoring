@@ -7,9 +7,9 @@ export default function Header() {
                     src={`/header.png`}
                     layout="fill"
                     alt="customer service"
-                    objectFit="cover"
-                    objectPosition="right"
-                    className="rounded-md"
+                    objectFit="contain"
+                    objectPosition=""
+                    className="rounded-md "
                 />
             </div>
             <div className="flex w-full justify-center items-center text-center">
